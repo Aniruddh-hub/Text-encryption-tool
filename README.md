@@ -48,8 +48,8 @@ Ensure you have the required language environment installed on your machine.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/text-encryption-tool.git
-   Navigate to the directory:
+   git clone https://github.com/Aniruddh-hub/text-encryption-tool.git
+Navigate to the directory:
 cd text-encryption-tool<br>
 Install dependencies (if applicable):
 pip install -r requirements.txt<br>
