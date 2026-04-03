@@ -50,7 +50,7 @@ Ensure you have the required language environment installed on your machine.
    ```bash
    git clone https://github.com/Aniruddh-hub/text-encryption-tool.git
 Navigate to the directory:
-cd text-encryption-tool<br>
+cd Encryption tool<br>
 Install dependencies (if applicable):
 pip install -r requirements.txt<br>
 Run the application:
